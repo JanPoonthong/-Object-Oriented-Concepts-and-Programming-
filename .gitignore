@@ -1,0 +1,9 @@
+*.pdf
+.settings
+.DS_Store
+*.iml
+.classpath
+.project
+.idea
+bin
+out
